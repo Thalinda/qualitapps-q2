@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23767457528",
+    "project_id": "quliteappsq2",
+    "storage_bucket": "quliteappsq2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23767457528:android:aa3aa9e105322dd589e50d",
+        "android_client_info": {
+          "package_name": "com.example.q2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23767457528-0p4je5u4a91kehdhf7alm2mn9n9jie6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx48k8--Cac0eGGWtvOjuJuw3_HxPQzyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23767457528-0p4je5u4a91kehdhf7alm2mn9n9jie6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
